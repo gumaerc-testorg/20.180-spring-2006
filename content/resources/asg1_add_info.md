@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains additional information for assignment 1 such as
   submission instructions, questions and clarifications.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-180-biological-engineering-programming-spring-2006/c00031f823e6d0ed3dbdc3a55d0c4460_asg1_add_info.pdf
+file: /media/courses/20-180-biological-engineering-programming-spring-2006/c00031f823e6d0ed3dbdc3a55d0c4460_asg1_add_info.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: asg1_add_info.pdf
 uid: c00031f8-23e6-d0ed-3dbd-c3a55d0c4460
