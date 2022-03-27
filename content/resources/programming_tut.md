@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c987fe2b-449a-6d79-c069-87f06f245539
 resourcetype: Document
 title: programming_tut.pdf
 uid: 28a5087b-6b72-b046-b633-2b199fd79e54

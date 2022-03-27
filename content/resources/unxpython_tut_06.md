@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c987fe2b-449a-6d79-c069-87f06f245539
 resourcetype: Document
 title: unxpython_tut_06.pdf
 uid: 9da14483-6bb7-25c0-1b93-e4820d3686d6

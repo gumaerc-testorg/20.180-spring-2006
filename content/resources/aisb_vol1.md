@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2c814275-cfb7-ae76-c577-7c06911e2c68
 resourcetype: Document
 title: aisb_vol1.pdf
 uid: fe34be98-6476-51a3-e962-efd13e9c32cf

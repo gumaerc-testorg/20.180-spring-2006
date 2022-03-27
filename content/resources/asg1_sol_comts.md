@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a2517b9f-faab-1dce-9594-95a646dc6d4d
 resourcetype: Document
 title: asg1_sol_comts.pdf
 uid: dc46ce13-3868-e6a1-5d7c-c73bb1c04721

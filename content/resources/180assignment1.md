@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a2517b9f-faab-1dce-9594-95a646dc6d4d
 resourcetype: Document
 title: 180assignment1.pdf
 uid: 51935b40-876c-63e6-7553-655c5adc3660

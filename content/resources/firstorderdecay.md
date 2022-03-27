@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2c814275-cfb7-ae76-c577-7c06911e2c68
 resourcetype: Document
 title: firstorderdecay.pdf
 uid: 21927062-0235-78d6-af16-1b09f4787514

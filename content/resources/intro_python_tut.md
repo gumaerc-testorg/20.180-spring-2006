@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c987fe2b-449a-6d79-c069-87f06f245539
 resourcetype: Document
 title: intro_python_tut.pdf
 uid: 2aa17024-86a2-921d-af77-c2266e412170

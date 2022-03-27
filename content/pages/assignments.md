@@ -30,14 +30,14 @@ Assignment 1 ([PDF]({{< baseurl >}}/resources/180assignment1))
 {{< tdopen >}}
 Additional Information ([PDF]({{< baseurl >}}/resources/asg1_add_info))  
   
-Parts.txt ([TXT](./resolveuid/729c7af14767d9b351cca3d416502f1e))
+Parts.txt ([TXT]({{< baseurl >}}/resources/parts))
 {{< tdclose >}}
 {{< tdopen >}}
 Solutions and Comments ([PDF]({{< baseurl >}}/resources/asg1_sol_comts))  
   
-Code (Q1q2code.txt) ([TXT](./resolveuid/a48faf6c7685ce39a26ada6ba566f258))  
+Code (Q1q2code.txt) ([TXT]({{< baseurl >}}/resources/q1q2code))  
   
-Test file (Q1tester.txt) ([TXT](./resolveuid/47afc4e7167be3cdf95da50fa521c86e))
+Test file (Q1tester.txt) ([TXT]({{< baseurl >}}/resources/q1tester))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,12 +48,12 @@ Assignment 2 ([PDF]({{< baseurl >}}/resources/180assignment2))
 {{< tdopen >}}
 Additional Information ([PDF]({{< baseurl >}}/resources/asg2_add_info))  
   
-parts.dict ([DICT](./resolveuid/7fa011444f24e0570f7160a9e34f3a66))  
+parts.dict ([DICT]({{< baseurl >}}/resources/parts-1))  
   
-map.dict ([DICT](./resolveuid/fcb7b9e11a370d79eaf33177167bf2c7))
+map.dict ([DICT]({{< baseurl >}}/resources/map))
 {{< tdclose >}}
 {{< tdopen >}}
-Code (Pset2code.txt) ([TXT](./resolveuid/b904a3f6fba791d7661cb2a34c8e29b3))
+Code (Pset2code.txt) ([TXT]({{< baseurl >}}/resources/pset2code))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,16 +64,16 @@ Assignment 3 ([PDF]({{< baseurl >}}/resources/psetfour_final))
 {{< tdopen >}}
 Additional Information ([PDF]({{< baseurl >}}/resources/asg3_add_info))  
   
-GeneticCode.dict ([DICT](./resolveuid/6ea9b2b7ad5a4da57ff0495125eb900e))  
+GeneticCode.dict ([DICT]({{< baseurl >}}/resources/geneticcode))  
   
-Protein.txt ([TXT](./resolveuid/09d9efde7472cd1ffbbe67cf524eeb39))  
+Protein.txt ([TXT]({{< baseurl >}}/resources/protein))  
   
-NC\_003418.txt ([TXT](./resolveuid/1f6f1302295b825e27f9a819a44035e2))
+NC\_003418.txt ([TXT]({{< baseurl >}}/resources/nc_003418))
 {{< tdclose >}}
 {{< tdopen >}}
 Solutions ([PDF]({{< baseurl >}}/resources/asg3_solution))  
   
-Code (Spencers\_4.txt) ([TXT](./resolveuid/105606015671acc8a899bc05982df314))
+Code (Spencers\_4.txt) ([TXT]({{< baseurl >}}/resources/spencers_4))
 {{< tdclose >}}
 
 {{< trclose >}}

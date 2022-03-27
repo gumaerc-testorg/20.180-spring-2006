@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a2517b9f-faab-1dce-9594-95a646dc6d4d
 resourcetype: Document
 title: twenty180hw5.pdf
 uid: 8fb07b97-9edf-08db-97bb-c414f217693f

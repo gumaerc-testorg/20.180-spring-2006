@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2c814275-cfb7-ae76-c577-7c06911e2c68
 resourcetype: Document
 title: sec_orderbinding.pdf
 uid: 66c84d9e-3239-3c40-3362-181efe7bc463
