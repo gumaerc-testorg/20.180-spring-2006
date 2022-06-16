@@ -1,9 +1,13 @@
 ---
 content_type: page
+description: The syllabus section provides information about the course overview,
+  assignments, exams and grading criteria for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 90fafbce-e28b-1000-f602-1242f2975a17
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

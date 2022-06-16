@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supplemental file for Assignment 3.
-file: /media/courses/20-180-biological-engineering-programming-spring-2006/09d9efde7472cd1ffbbe67cf524eeb39_Protein.txt
+file: /courses/20-180-biological-engineering-programming-spring-2006/09d9efde7472cd1ffbbe67cf524eeb39_Protein.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Protein.txt
 uid: 09d9efde-7472-cd1f-fbbe-67cf524eeb39
 ---
+This resource is a supplemental file for Assignment 3.
+

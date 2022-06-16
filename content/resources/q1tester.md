@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a solution file for Assignment 1.
-file: /media/courses/20-180-biological-engineering-programming-spring-2006/47afc4e7167be3cdf95da50fa521c86e_Q1tester.txt
+file: /courses/20-180-biological-engineering-programming-spring-2006/47afc4e7167be3cdf95da50fa521c86e_Q1tester.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Q1tester.txt
 uid: 47afc4e7-167b-e3cd-f95d-a50fa521c86e
 ---
+This resource is a solution file for Assignment 1.
+

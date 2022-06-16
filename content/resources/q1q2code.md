@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a solution file for Assignment 1.
-file: /media/courses/20-180-biological-engineering-programming-spring-2006/a48faf6c7685ce39a26ada6ba566f258_Q1q2code.txt
+file: /courses/20-180-biological-engineering-programming-spring-2006/a48faf6c7685ce39a26ada6ba566f258_Q1q2code.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Q1q2code.txt
 uid: a48faf6c-7685-ce39-a26a-da6ba566f258
 ---
+This resource is a solution file for Assignment 1.
+
