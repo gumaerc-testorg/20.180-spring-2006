@@ -5,6 +5,7 @@ file: /courses/20-180-biological-engineering-programming-spring-2006/09d9efde747
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Protein.txt
 uid: 09d9efde-7472-cd1f-fbbe-67cf524eeb39
 ---
 This resource is a supplemental file for Assignment 3.
-

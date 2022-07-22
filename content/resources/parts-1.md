@@ -5,6 +5,7 @@ file: /courses/20-180-biological-engineering-programming-spring-2006/7fa011444f2
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: parts.dict
 uid: 7fa01144-4f24-e057-0f71-60a9e34f3a66
 ---
 This resource is a supplemental file for assignment 2.
-

@@ -5,6 +5,7 @@ description: This resource provides information on the topics of Basic UNIX oper
 file: /courses/20-180-biological-engineering-programming-spring-2006/9da144836bb725c01b93e4820d3686d6_unxpython_tut_06.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information on the topics of Basic UNIX operations, Introduction to programming and Python and Python exercises.
-

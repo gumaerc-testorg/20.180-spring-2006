@@ -5,6 +5,7 @@ file: /courses/20-180-biological-engineering-programming-spring-2006/b904a3f6fba
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Pset2code.txt
 uid: b904a3f6-fba7-91d7-661c-b2a34c8e29b3
 ---
 This resource is a solution file for Assignment 2.
-

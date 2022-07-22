@@ -5,6 +5,7 @@ description: This resource provides introduction to the Python tutorial so that 
 file: /courses/20-180-biological-engineering-programming-spring-2006/2aa1702486a2921daf77c2266e412170_intro_python_tut.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides introduction to the Python tutorial so that the student gets familiar with basic terms and concepts.
-

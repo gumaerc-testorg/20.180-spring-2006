@@ -5,6 +5,7 @@ file: /courses/20-180-biological-engineering-programming-spring-2006/6b66b26ad3c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions to assignment 3.
-

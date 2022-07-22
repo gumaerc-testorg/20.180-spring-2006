@@ -7,6 +7,7 @@ file: /courses/20-180-biological-engineering-programming-spring-2006/66c84d9e323
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information on the Second Order Binding (of two things). A physical interaction between molecules A and B and a system that contains some initial concentration of molecules A and B.
-

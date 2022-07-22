@@ -5,6 +5,7 @@ file: /courses/20-180-biological-engineering-programming-spring-2006/47afc4e7167
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Q1tester.txt
 uid: 47afc4e7-167b-e3cd-f95d-a50fa521c86e
 ---
 This resource is a solution file for Assignment 1.
-

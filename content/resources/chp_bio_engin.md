@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_bio_engin.jpg
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Adventures in synthetic biology comic. Image by Drew Endy, Isadora Deese, MIT Synthetic Biology Working Group, and Chuck Wadey.
-
