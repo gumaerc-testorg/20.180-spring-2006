@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions for exam 2.
 file: /courses/20-180-biological-engineering-programming-spring-2006/6ddb75c1ce282ba7ded6f84566a04436_exam2_key.pdf
+file_size: 101278
 file_type: application/pdf
 learning_resource_types:
 - Exams
