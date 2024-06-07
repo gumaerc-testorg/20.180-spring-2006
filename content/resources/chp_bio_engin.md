@@ -3,6 +3,7 @@ content_type: resource
 description: Adventures in synthetic biology comic. Image by Drew Endy, Isadora Deese,
   MIT Synthetic Biology Working Group, and Chuck Wadey.
 file: /courses/20-180-biological-engineering-programming-spring-2006/2c1a1cf32cf24defac9705c9b7f5ebf3_chp_bio_engin.jpg
+file_size: 69868
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -4,6 +4,7 @@ description: This resource provides information on the Second Order Binding (of 
   things). A physical interaction between molecules A and B and a system that contains
   some initial concentration of molecules A and B.
 file: /courses/20-180-biological-engineering-programming-spring-2006/66c84d9e32393c403362181efe7bc463_sec_orderbinding.pdf
+file_size: 105868
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

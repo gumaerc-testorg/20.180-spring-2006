@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains additional information for assignment 3 such as
   corrections to problem set.
 file: /courses/20-180-biological-engineering-programming-spring-2006/5701dca67fef177046bd9b22a45d0638_asg3_add_info.pdf
+file_size: 131139
 file_type: application/pdf
 learning_resource_types:
 - Assignments
