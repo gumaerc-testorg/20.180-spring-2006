@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information on First Order Decay (of anything).
 file: /courses/20-180-biological-engineering-programming-spring-2006/21927062023578d6af161b09f4787514_firstorderdecay.pdf
+file_size: 107939
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

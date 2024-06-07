@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a solution file for Assignment 2.
 file: /courses/20-180-biological-engineering-programming-spring-2006/b904a3f6fba791d7661cb2a34c8e29b3_Pset2code.txt
+file_size: 2283
 file_type: text/plain
 learning_resource_types:
 - Assignments
