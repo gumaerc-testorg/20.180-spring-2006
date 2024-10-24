@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supplemental file for assignment 3.
-file: /courses/20-180-biological-engineering-programming-spring-2006/6ea9b2b7ad5a4da57ff0495125eb900e_GeneticCode.dict
+file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/6ea9b2b7ad5a4da57ff0495125eb900e_GeneticCode.dict
 file_size: 602
 file_type: text/plain
 learning_resource_types:
