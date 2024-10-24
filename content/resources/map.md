@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supplemental file for assignment 2.
-file: /courses/20-180-biological-engineering-programming-spring-2006/fcb7b9e11a370d79eaf33177167bf2c7_map.dict
+file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/fcb7b9e11a370d79eaf33177167bf2c7_map.dict
 file_size: 52
 file_type: text/plain
 learning_resource_types:
