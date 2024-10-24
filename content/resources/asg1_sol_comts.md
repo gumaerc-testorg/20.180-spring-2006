@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions and general comments for assignment
   1.
-file: /courses/20-180-biological-engineering-programming-spring-2006/dc46ce133868e6a15d7cc73bb1c04721_asg1_sol_comts.pdf
+file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/dc46ce133868e6a15d7cc73bb1c04721_asg1_sol_comts.pdf
 file_size: 104737
 file_type: application/pdf
 learning_resource_types:
