@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains review questions for exam 2.
-file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/cf75ca28ff381cdb154a5f2138f39cac_exam2review_ques.pdf
+file: /courses/20-180-biological-engineering-programming-spring-2006/cf75ca28ff381cdb154a5f2138f39cac_exam2review_ques.pdf
 file_size: 115894
 file_type: application/pdf
 learning_resource_types:

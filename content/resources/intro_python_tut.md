@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides introduction to the Python tutorial so that the
   student gets familiar with basic terms and concepts.
-file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/2aa1702486a2921daf77c2266e412170_intro_python_tut.pdf
+file: /courses/20-180-biological-engineering-programming-spring-2006/2aa1702486a2921daf77c2266e412170_intro_python_tut.pdf
 file_size: 86485
 file_type: application/pdf
 learning_resource_types: []

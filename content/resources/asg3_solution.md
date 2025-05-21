@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to assignment 3.
-file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/6b66b26ad3c997113fd87edaef05e89d_asg3_solution.pdf
+file: /courses/20-180-biological-engineering-programming-spring-2006/6b66b26ad3c997113fd87edaef05e89d_asg3_solution.pdf
 file_size: 82312
 file_type: application/pdf
 learning_resource_types:

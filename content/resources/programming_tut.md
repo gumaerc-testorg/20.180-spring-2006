@@ -4,7 +4,7 @@ description: This resource provides information for Unix and Python tutorial alo
   with Python reference books, foundational engineering concepts, basic programming
   concepts, low-level programming concepts, programming stategies, tips on programming
   style and matlab tutorial.
-file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/28a5087b6b72b046b6332b199fd79e54_programming_tut.pdf
+file: /courses/20-180-biological-engineering-programming-spring-2006/28a5087b6b72b046b6332b199fd79e54_programming_tut.pdf
 file_size: 178953
 file_type: application/pdf
 learning_resource_types: []
