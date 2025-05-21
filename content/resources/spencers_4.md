@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a solution file for Assignment 3.
-file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/105606015671acc8a899bc05982df314_Spencers_4.txt
+file: /courses/20-180-biological-engineering-programming-spring-2006/105606015671acc8a899bc05982df314_Spencers_4.txt
 file_size: 3104
 file_type: text/plain
 learning_resource_types:

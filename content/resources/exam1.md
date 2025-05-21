@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to exam 1.
-file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/609c28f3617c1fb2de887fc1c5c7b0a1_exam1.pdf
+file: /courses/20-180-biological-engineering-programming-spring-2006/609c28f3617c1fb2de887fc1c5c7b0a1_exam1.pdf
 file_size: 325255
 file_type: application/pdf
 learning_resource_types:

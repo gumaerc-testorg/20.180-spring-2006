@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is assignment 2 and contains questions to test students
   understanding of course material.
-file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/6960384eb0c2a7f4b2227e80f6cdd1e3_180assignment2.pdf
+file: /courses/20-180-biological-engineering-programming-spring-2006/6960384eb0c2a7f4b2227e80f6cdd1e3_180assignment2.pdf
 file_size: 82907
 file_type: application/pdf
 learning_resource_types:
