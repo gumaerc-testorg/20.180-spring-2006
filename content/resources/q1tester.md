@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a solution file for Assignment 1.
-file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/47afc4e7167be3cdf95da50fa521c86e_Q1tester.txt
+file: /courses/20-180-biological-engineering-programming-spring-2006/47afc4e7167be3cdf95da50fa521c86e_Q1tester.txt
 file_size: 72
 file_type: text/plain
 learning_resource_types:

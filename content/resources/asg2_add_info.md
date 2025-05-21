@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains additional information for assignment 2 such as
   questions and clarifications.
-file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/20abc324e2ac5bc3d1d4427b3c2be3cd_asg2_add_info.pdf
+file: /courses/20-180-biological-engineering-programming-spring-2006/20abc324e2ac5bc3d1d4427b3c2be3cd_asg2_add_info.pdf
 file_size: 105576
 file_type: application/pdf
 learning_resource_types:
