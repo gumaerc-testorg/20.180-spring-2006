@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the topics of Basic UNIX operations,
   Introduction to programming and Python and Python exercises.
-file: /courses/20-180-biological-engineering-programming-spring-2006/9da144836bb725c01b93e4820d3686d6_unxpython_tut_06.pdf
+file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/9da144836bb725c01b93e4820d3686d6_unxpython_tut_06.pdf
 file_size: 238808
 file_type: application/pdf
 learning_resource_types: []

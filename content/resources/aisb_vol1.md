@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides background information for how genetically encoded
   inverters work.
-file: /courses/20-180-biological-engineering-programming-spring-2006/fe34be98647651a3e962efd13e9c32cf_aisb_vol1.pdf
+file: /ol-ocw-studio-app/courses/20-180-biological-engineering-programming-spring-2006/fe34be98647651a3e962efd13e9c32cf_aisb_vol1.pdf
 file_size: 1557716
 file_type: application/pdf
 learning_resource_types:
